@@ -6478,9 +6478,8 @@ hash = "e3b607348fc4084c8aece8cccaa3c58af8d12e518c305bdbe044eabc2bb0b472"
 metafile = true
 
 [[files]]
-file = "mods/neon-craft-2-mod.pw.toml"
-hash = "f1450ab736361bb4c232312b7144deded811c92ba8ec0740b1011937a9548b40"
-metafile = true
+file = "mods/neoncraft2-2.2.jar"
+hash = "b6f6b55dbe21fc28cc2e8a8b07d48ba3c14738180ebf3a8468b538b51071529e"
 
 [[files]]
 file = "mods/open-loader.pw.toml"
