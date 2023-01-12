@@ -6093,6 +6093,18 @@ file = "defaultconfigs/fluxnetworks-server.toml"
 hash = "a46fd7bd7a44cffcd235ff238cd970e2fbbefd2599b7a528eab5b06f6725f012"
 
 [[files]]
+file = "mods/Beekeeper-1.18.2-1.0.5.jar"
+hash = "b01759c76483103d95895c88701ac1f49ed031e39e957c2a77a72af42676b93f"
+
+[[files]]
+file = "mods/BetterF3-3.0.0-Forge-1.18.2.jar"
+hash = "bd58b42c45b86af2cecda75ac68c3be7da5ecd7d37c055238d44d309743c21ea"
+
+[[files]]
+file = "mods/[Universal]CTOV-v2-9-2.jar"
+hash = "46cb4b1100a84e08890dc215e3a3e40a24d6914f8ace85c9732e57bcea4a8048"
+
+[[files]]
 file = "mods/akashic-tome.pw.toml"
 hash = "c55d8087b3a790472313b0e366fb016acea13dad23b4dfac869422047e7150d0"
 metafile = true
@@ -6148,18 +6160,8 @@ hash = "e4c9a4a844e0a2532dbdedef7dae63b5a3f9a7e26b498e38d01ccc03bb4d72d4"
 metafile = true
 
 [[files]]
-file = "mods/beekeeper.pw.toml"
-hash = "1e26fc2068ff60421757ecdb283e68a48cce5f18813fc67f7bd6f414114f53c0"
-metafile = true
-
-[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "2525c4774e1b6f182cfb549a622653e7fd8457473dd9a0c97fe1090d8a61a1cb"
-metafile = true
-
-[[files]]
-file = "mods/better-f3.pw.toml"
-hash = "4ffdc720d6cc8e49ee6677e251efa4d02176af37a21ed2c8266e7f5bde850b57"
 metafile = true
 
 [[files]]
@@ -6220,11 +6222,6 @@ metafile = true
 [[files]]
 file = "mods/chipped.pw.toml"
 hash = "3882c802ffa760a9c7581bb04bde212173edb903d54a931c5cbdf83eff6053b9"
-metafile = true
-
-[[files]]
-file = "mods/choicetheorems-overhauled-village.pw.toml"
-hash = "ccc9e68c208b574a9f41f5ec4971eec57784c4198bb591d4d180045293ee9d5f"
 metafile = true
 
 [[files]]
@@ -6383,9 +6380,8 @@ hash = "3c007d36702bd75f8f2f21491a0df781ee3c5ed7e6468090809019e253b13949"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "b574a0f870099ef1e69a167cc43256e9274992283f8735c6aaf692fa990cb838"
-metafile = true
+file = "mods/entityculling-forge-mc1.18-1.5.1.jar"
+hash = "a90510746cc6bb32edfd6513620a9e61dad8050adaab47fc60e11504d446786f"
 
 [[files]]
 file = "mods/every-compat.pw.toml"
