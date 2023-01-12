@@ -1,0 +1,9 @@
+{
+  "expPerLevel": 150,
+  "foodExpRanges": {
+    "the_vault:plain_burger": {
+      "min": 5,
+      "max": 10
+    }
+  }
+}

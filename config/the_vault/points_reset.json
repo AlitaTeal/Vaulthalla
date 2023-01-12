@@ -1,0 +1,8 @@
+{
+  "resetSkillPoints": true,
+  "resetKnowledgePoints": false,
+  "resetArchetypePoints": false,
+  "skillPointsCurrentlyReset": [],
+  "archetypePointsCurrentlyReset": [],
+  "knowledgePointsCurrentlyReset": []
+}
