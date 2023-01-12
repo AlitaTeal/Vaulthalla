@@ -1,0 +1,13 @@
+name = "The Cactus Mod"
+filename = "The-Cactus-Mod-1.18.2-1.3.6.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e79d39904458070bd2ce9282d17dd33a80d659a2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3675750
+project-id = 291433

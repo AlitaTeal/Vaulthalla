@@ -1,0 +1,13 @@
+name = "Beekeeper"
+filename = "Beekeeper-1.18.2-1.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "16c4696893e4cea104866d39b08f8f895742517c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4203253
+project-id = 390495
