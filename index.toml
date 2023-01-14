@@ -6450,7 +6450,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flywheel-compat.pw.toml"
-hash = "8b8f7f9f18270cbf648dd79c0447cc3ee382269ab90913e329acbe6eb59fe3c3"
+hash = "f665b6928e40f1e04f4222a5dad7c380e9f76f275157d5969bb7f85c78af4c10"
 metafile = true
 
 [[files]]
@@ -6639,7 +6639,7 @@ hash = "b6f6b55dbe21fc28cc2e8a8b07d48ba3c14738180ebf3a8468b538b51071529e"
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "bc23f32e54ca3ac7c8a9e9aa55372802b5cecb86824bf421da8397cf0bf2e869"
+hash = "0590c2b8c0d95e758c15690e9a918bd0e6ea305be611f9a38a50a7c86185575b"
 metafile = true
 
 [[files]]
