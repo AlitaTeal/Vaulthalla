@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4159833
 project-id = 659897
+
+[option]
+optional = true
+default = true
+description = "Only enable if using Oculus. Fixes some graphical issues between Oculus and Flywheel (Create's rendering mod)"
