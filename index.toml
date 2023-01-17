@@ -6650,14 +6650,13 @@ hash = "345939a40a69469bfb53e1f6650959757f26583eede75de734b2ed5bdb64f69b"
 metafile = true
 
 [[files]]
-file = "mods/more-overlays-updated.pw.toml"
-hash = "4870bf0afab0c0442605237b5f2cd33b0f6aba88eed460989b5dec50f7c90cef"
-metafile = true
-
-[[files]]
 file = "mods/more-villagers.pw.toml"
 hash = "1e3256743830fc8970f761e38ec328a3052976cab65ccc15d2c8b73a4ae92136"
 metafile = true
+
+[[files]]
+file = "mods/moreoverlays-1.20.10-mc1.18.2.jar"
+hash = "1dc3e6fefaceaff4cbf1fd2694f71d218c5a9c0d2502dc99e53c0f2084873424"
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
