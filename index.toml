@@ -6640,11 +6640,6 @@ hash = "543cae965a82c348b1a64fce5b3d7a4690970b6db6f38518c6f99771cec9a387"
 metafile = true
 
 [[files]]
-file = "mods/model-gap-fix.pw.toml"
-hash = "9ebfa0f30ebd694ec8b0e8e8c90611ce4bff95bb86ad09afe4392e42ed5dd2d6"
-metafile = true
-
-[[files]]
 file = "mods/modular-routers.pw.toml"
 hash = "345939a40a69469bfb53e1f6650959757f26583eede75de734b2ed5bdb64f69b"
 metafile = true
