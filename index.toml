@@ -49,8 +49,24 @@ file = "config/MouseTweaks.cfg"
 hash = "611b9c06b577cb3cdc72c8b74a78b16b9a7b42832e1380a85107d086a8854fa8"
 
 [[files]]
+file = "config/TwitchSpawn/client_credentials.json"
+hash = "fe5ae0ab369907ab268227953766dba501f3b95713f9189f3ee627205530d162"
+
+[[files]]
+file = "config/TwitchSpawn/messages.subtitle.json"
+hash = "23eef74999660c3bd16b2d9beb50061d3dcbc47d5fce126af01fdb3865cfe0f1"
+
+[[files]]
+file = "config/TwitchSpawn/messages.title.json"
+hash = "ae6d5427494218db91ddd1afa7c7cea2484978d166e79caf2db2623ef3307251"
+
+[[files]]
 file = "config/TwitchSpawn/preferences.toml"
 hash = "d6e8b4b2b1988e91eb1ab6a139d79ae95426e50a9e0fec8701f95e5e9568de00"
+
+[[files]]
+file = "config/TwitchSpawn/rules.default.tsl"
+hash = "9fe47c606b17217c304001b844457d64654143e6e79b3e7af683519caa1a59d9"
 
 [[files]]
 file = "config/WeirdingGadget.toml"
@@ -66,7 +82,7 @@ hash = "73219b16a0d68ef382664857d784c7e68504ed66195ab1ea46b458444a0650a3"
 
 [[files]]
 file = "config/alexsmobs.toml"
-hash = "0e12b0a4d3c5b42465eba9393a2abaf722c9a32f78fe77e9e99d62e9c01513f5"
+hash = "311a91900fd0a3a2bdd2c38105ee88ce21f394f7f80ebe37a8382e7a16c4a23b"
 
 [[files]]
 file = "config/alexsmobs/alligator_snapping_turtle_spawns.json"
@@ -774,7 +790,7 @@ hash = "082feced4bdde5a58cf562e095b2061dd934b0908af4e54d214726c6b02ab598"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "87c068ae456665d45c3c66db0e13e9901d9f4b98695487e550572e0229e330cf"
+hash = "ae4bd3bb679ba9f118e7a3710b558c6cde93e43ac190e4ceee979a0b33fbe26f"
 
 [[files]]
 file = "config/refinedstorage-client.toml"
@@ -6057,12 +6073,32 @@ file = "config/twigs-common.toml"
 hash = "5c4361ed317500edbe2951cf571d5f2b0528f010b9a2a47f684c4e7f49523202"
 
 [[files]]
+file = "config/vhsmp/gladiator_arena.json"
+hash = "d0f6770ba00b10485b89279a6017012728e8219c32c71731edbf1a16efac1945"
+
+[[files]]
+file = "config/vhsmp/gladiator_classes.json"
+hash = "73e293ca13ef818fcf160e7291401f9513bf100e0e847bb588aa886b20c43cec"
+
+[[files]]
+file = "config/vhsmp/gladiator_shop.json"
+hash = "9edca1325a834b9065be114458d92579803c487a08dc62b8bb0588cfae161ede"
+
+[[files]]
+file = "config/vhsmp/subscriber_arena.json"
+hash = "83ed2b715cf3e5015852287e6232b605a0ad1df6da66f0adb5a780eefc9cb005"
+
+[[files]]
 file = "config/waddles-common.toml"
 hash = "0a39b527a0694b41b5b46f8e6856c4054bed35e0f3c60224e1a45166e17dd88e"
 
 [[files]]
 file = "config/waystones-common.toml"
 hash = "aeff20419560c1b3631491ca159d2b3fa6588d3e5c171cb3353c5ea26789fd1b"
+
+[[files]]
+file = "config/worldedit/worldedit.properties"
+hash = "017e64b594714aa6dae3cc9eae3565326acf2d3162998c8aa1db1ac9d64c54a0"
 
 [[files]]
 file = "config/xaerominimap.txt"
@@ -6611,6 +6647,11 @@ metafile = true
 [[files]]
 file = "mods/modular-routers.pw.toml"
 hash = "345939a40a69469bfb53e1f6650959757f26583eede75de734b2ed5bdb64f69b"
+metafile = true
+
+[[files]]
+file = "mods/more-overlays-updated.pw.toml"
+hash = "4870bf0afab0c0442605237b5f2cd33b0f6aba88eed460989b5dec50f7c90cef"
 metafile = true
 
 [[files]]

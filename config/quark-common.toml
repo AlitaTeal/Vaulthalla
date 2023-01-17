@@ -47,7 +47,7 @@
 	"Obsidian Plate" = true
 	"Metal Buttons" = true
 	"Jukebox Automation" = true
-	"Iron Rod" = false
+	"Iron Rod" = true
 	Gravisand = true
 	"Feeding Trough" = false
 	"Ender Watcher" = true
