@@ -543,13 +543,13 @@
 	"Spiral Spires" = false
 	Permafrost = false
 	"No More Lava Pockets" = true
-	"New Stone Types" = false
+	"New Stone Types" = true
 	"Nether Obsidian Spikes" = false
 	"Monster Box" = true
 	"Glimmering Weald" = true
 	"Fairy Rings" = false
 	Corundum = false
-	"Chorus Vegetation" = false
+	"Chorus Vegetation" = true
 	"Blossom Trees" = true
 	"Big Stone Clusters" = false
 	"Big Dungeon" = false
@@ -619,10 +619,10 @@
 					"Is Blacklist" = false
 
 	[world.new_stone_types]
-		"Enable Limestone" = false
-		"Enable Jasper" = false
-		"Enable Shale" = false
-		"Enable Myalite" = false
+		"Enable Limestone" = true
+		"Enable Jasper" = true
+		"Enable Shale" = true
+		"Enable Myalite" = true
 
 		[world.new_stone_types.limestone]
 
@@ -1186,7 +1186,7 @@
 	Stonelings = true
 	Shiba = true
 	Frogs = true
-	Foxhound = false
+	Foxhound = true
 	Forgotten = false
 	Crabs = false
 
