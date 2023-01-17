@@ -6640,6 +6640,11 @@ hash = "543cae965a82c348b1a64fce5b3d7a4690970b6db6f38518c6f99771cec9a387"
 metafile = true
 
 [[files]]
+file = "mods/model-gap-fix.pw.toml"
+hash = "9ebfa0f30ebd694ec8b0e8e8c90611ce4bff95bb86ad09afe4392e42ed5dd2d6"
+metafile = true
+
+[[files]]
 file = "mods/modular-routers.pw.toml"
 hash = "345939a40a69469bfb53e1f6650959757f26583eede75de734b2ed5bdb64f69b"
 metafile = true
@@ -6650,8 +6655,8 @@ hash = "1e3256743830fc8970f761e38ec328a3052976cab65ccc15d2c8b73a4ae92136"
 metafile = true
 
 [[files]]
-file = "mods/moreoverlays-1.20.10-mc1.18.2.jar"
-hash = "1dc3e6fefaceaff4cbf1fd2694f71d218c5a9c0d2502dc99e53c0f2084873424"
+file = "mods/moreoverlays-1.20.9-mc1.18.2.jar"
+hash = "baaddd09e0dee3d23705fae65165eab5d3264c7855421fc76d4ac9743b5e2e6f"
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
