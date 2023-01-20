@@ -7318,6 +7318,10 @@ file = "patchouli_data.json"
 hash = "788728442ae6cbe749fee390cf847e1ec28795641ca89ea045779758a84f8be0"
 
 [[files]]
+file = "resourcepacks/Vault-Battle-Axes.zip"
+hash = "33f561d609543688b8e2529e3148fbe70eede5d48dc3341d8c3973d33d4defab"
+
+[[files]]
 file = "scripts/00_remove_recipes.zs"
 hash = "08be3144caa9db0413743b3f654c3735f711d41bfdb34e7d5df06825c5076f46"
 
