@@ -6419,8 +6419,18 @@ file = "mods/entityculling-forge-mc1.18-1.5.1.jar"
 hash = "a90510746cc6bb32edfd6513620a9e61dad8050adaab47fc60e11504d446786f"
 
 [[files]]
+file = "mods/equipment-compare.pw.toml"
+hash = "60ef84fd3a553174b4e094a1330a9dd4b67f069e15434894cc544b984ad5f960"
+metafile = true
+
+[[files]]
 file = "mods/every-compat.pw.toml"
 hash = "8685740adfb2f4a19aa0a825be66bef0c4885f608e247aa7ca9a0caa87e42a49"
+metafile = true
+
+[[files]]
+file = "mods/extreme-sound-muffler.pw.toml"
+hash = "36b91702724cbe50f4fdcb0f278af876b67a0aeceeb557d3ae0e3a0b63499d6f"
 metafile = true
 
 [[files]]
@@ -6535,7 +6545,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "704fa7a08739b7335304942b52ffd23eabb013f22896951b88ce4ad880b2718d"
+hash = "fc83b90e32fdeff3821bf3d34aa61dbe714b4dfe3260e4e3b7bc4a80abc1732b"
 metafile = true
 
 [[files]]

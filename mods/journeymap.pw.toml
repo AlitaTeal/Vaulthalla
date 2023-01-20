@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4331319
 project-id = 32274
+
+[option]
+optional = true
+default = false
+description = "Alternative map mod"
