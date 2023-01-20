@@ -7318,8 +7318,32 @@ file = "patchouli_data.json"
 hash = "788728442ae6cbe749fee390cf847e1ec28795641ca89ea045779758a84f8be0"
 
 [[files]]
+file = "resourcepacks/BetterPowderedSnowBorder.zip"
+hash = "15e225dcb408dea5e9ac3ca35be95594c5bc802fa59cdfc1136a8359f1cdc477"
+
+[[files]]
+file = "resourcepacks/BetterPowderedSnowRed.zip"
+hash = "2f53c60ce17c1c82df1d5da5d0d63dd57147c32a467f32c3db10246ea6ad9b65"
+
+[[files]]
+file = "resourcepacks/FutharkRunes.zip"
+hash = "494a8ea62e77024372db078647bb68bab5fe330790a3d08c140203651010f8a9"
+
+[[files]]
 file = "resourcepacks/Vault-Battle-Axes.zip"
 hash = "33f561d609543688b8e2529e3148fbe70eede5d48dc3341d8c3973d33d4defab"
+
+[[files]]
+file = "resourcepacks/Vault_Ore_Borders.zip"
+hash = "dc5dc684871e39e0f92c0dd2c945031a64888f379f2e978dc520f273acf79bf4"
+
+[[files]]
+file = "resourcepacks/Vault_Stone_Borders.zip"
+hash = "c092a32343ca7cfcf21a1ea942fdbe7d2102d70b3ed8d2678239a8d918873035"
+
+[[files]]
+file = "resourcepacks/identifiable-powdered-snow-minecraft-modder.zip"
+hash = "0b5a5fb99d012d48ed02d9c58f005039f97f413efc01134f72523564a7bdd55f"
 
 [[files]]
 file = "scripts/00_remove_recipes.zs"
