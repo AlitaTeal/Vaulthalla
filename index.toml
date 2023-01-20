@@ -639,6 +639,7 @@ hash = "45993539b53c598bb5a856d7b3345e64a404105002fb85c18d33f8b5da8611f7"
 [[files]]
 file = "config/jade/jade.json"
 hash = "374d4fe77578e828ebc54135f5ddc8347517380a8d1f11fc3b4e6b16a53c39f1"
+preserve = true
 
 [[files]]
 file = "config/jade/jade_plugins.json"
