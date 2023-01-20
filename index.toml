@@ -793,6 +793,10 @@ file = "config/quark-common.toml"
 hash = "3471e7dff6df7758b063adc3d5a804e1f977d5b8605223524159e5178c57d06f"
 
 [[files]]
+file = "config/radium.properties"
+hash = "e04b5642a260cbee1485dac25ac9401be4454a23480a4af6798dcb1bfcc42295"
+
+[[files]]
 file = "config/refinedstorage-client.toml"
 hash = "1688fbd31e8cd3a63f9ca3f5aa407dc4c5725bb727e450df69a24fd45418181a"
 
@@ -6251,11 +6255,6 @@ hash = "676147473a141e8fffdee6c1fa64857fac754e714bdf546ac7f8abaf747c129a"
 metafile = true
 
 [[files]]
-file = "mods/canary.pw.toml"
-hash = "008b36574470fc126b01e473d0b9840269f17e18597fb619c2a1f01d275af63b"
-metafile = true
-
-[[files]]
 file = "mods/chipped.pw.toml"
 hash = "3882c802ffa760a9c7581bb04bde212173edb903d54a931c5cbdf83eff6053b9"
 metafile = true
@@ -6765,6 +6764,11 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "323bf0949b42dbb97a7c35d17f436a7b2c7eb463cc97f46a54469ff3a0bad027"
+metafile = true
+
+[[files]]
+file = "mods/radium-reforged.pw.toml"
+hash = "7e7f52b898a62041d50f7ae2d9b1b639aabc1facd23f23795e99bf210574f9b1"
 metafile = true
 
 [[files]]
