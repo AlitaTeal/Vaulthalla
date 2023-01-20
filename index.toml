@@ -6782,6 +6782,11 @@ hash = "7e7f52b898a62041d50f7ae2d9b1b639aabc1facd23f23795e99bf210574f9b1"
 metafile = true
 
 [[files]]
+file = "mods/reauth.pw.toml"
+hash = "8d58265c582e12173f24f8c5e488173c30b8fa36006e346fc3470f20ce000a8b"
+metafile = true
+
+[[files]]
 file = "mods/refined-storage-addons.pw.toml"
 hash = "d686dfe4c17f95e626b1414f6e7f830adb7dcb6a47368b4c8bafda9b27a3c308"
 metafile = true
