@@ -7326,6 +7326,10 @@ file = "resourcepacks/BetterPowderedSnowRed.zip"
 hash = "2f53c60ce17c1c82df1d5da5d0d63dd57147c32a467f32c3db10246ea6ad9b65"
 
 [[files]]
+file = "resourcepacks/FutharkPortals.zip"
+hash = "5bfed6bab1ab6f30066c17c96d664a0019ea0669ca14465a39d87273b51df061"
+
+[[files]]
 file = "resourcepacks/FutharkRunes.zip"
 hash = "494a8ea62e77024372db078647bb68bab5fe330790a3d08c140203651010f8a9"
 
