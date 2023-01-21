@@ -5,7 +5,7 @@
 	"height": 20,
 	"langKey": "menu.quit",
 	"action": "QUIT",
-	"texture": "packmenu:textures/gui/vhbutton.png",
+	"texture": "packmenu:textures/gui/widgets.png",
 	"u": 66,
 	"v": 0,
 	"hoverU": 0,

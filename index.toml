@@ -6156,6 +6156,11 @@ hash = "03da06567af6005bcfd94525e773bb49b448c58b161757f8f5680b857459766c"
 metafile = true
 
 [[files]]
+file = "mods/antighost.pw.toml"
+hash = "06f7c48a87a485cd01a5ff4f7a2a8fdd25eed78c35ab7ecc386fa18bf2316909"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "84abec9cda0e905d2e503066a11fd6addb6b28e6604c633485993c25850b7198"
 metafile = true
@@ -7024,35 +7029,35 @@ metafile = true
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/accessibility.json"
-hash = "88f8547629519b1cc8724952ef2b7eec805c2eebb7530de7dd7998d4be2a7bcf"
+hash = "a497e2ef8f60f86d6620d18e04cce092d02e346e6b2c9731fa5b072bbd8d4b45"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/language.json"
-hash = "2c31db4e6877cb80f8fb65b7bb88201e8fe290b87776f8ca7c7334bcea000a08"
+hash = "6e0b2c6a21c9d232ddf82ea2dabee3886e50c514fdc3c64b504c5cd3a405d641"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/mods.json"
-hash = "74b0a22b929e1aae619d3fe7e21549fbabb1b68fccb841a71964aa8955bb11b0"
+hash = "5d0cdca976cdfb0829331a0fae1ff751f88e673432e3d6cfb076d71d41627c30"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/multiplayer.json"
-hash = "2e73f4fc1cfb3cd4fa5aadb5c82448b34e36b9a37e0418e0ea84e34bfa165d0a"
+hash = "528496ee85c8a9dd46e60c4850e460b337e9aa65163bc0a203378d8ec484c027"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/options.json"
-hash = "59850c94799c7b19a1c2ca9d3329d0099af6df83bcbbd5e49981f405882fa047"
+hash = "ac0b864dc6f8dc8a6d1a0da01d4a5bee3cbe5d62d584864901500f7b9b27379d"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/quit.json"
-hash = "feaf378e0bd27d7ca70a381f83608475a319a449dc7f2b982674b7bd5eef0d02"
+hash = "c2488d3fbf7875584bade5b7b0b3f49d1ff87662995fcc438761554b496802fc"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/singleplayer.json"
-hash = "dc8232872b84abd07c53c9ccc20a0bff7b87daedf6dd2b915285263ccefd9e44"
+hash = "fb346d7cd536c9f906e805546e99af36261862e2710e684ee7bd7ee6044a0ed9"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/vh.json"
-hash = "19eb5a1cbc9bece1a60e6a8225d3c9f86c5e3dd4f23ef60ad4adbba6733014fd"
+hash = "ec29f10f6b96b5d118235d9e54151d0d8f4a386432a34bd2ae6f5be14373e1ff"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/lang/en_us.json"
@@ -7064,7 +7069,7 @@ hash = "9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/accessibility.png"
-hash = "e100d3c203db3d649e2216fdb61ab6b0d952a0a421a1464d78ac9ec7df6c566b"
+hash = "5abf5fef4fe25a85b1eb6c156961456a1cdfc137669114d2d12886e780484fa8"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/background.png"
@@ -7080,11 +7085,11 @@ hash = "8f6ed083751f02a871403242317a18faf0f31544c143321ff015b5e2f66516d1"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/vhbutton.png"
-hash = "fedcc28371ea21ac4da58252285dc57036fea93e8f78eb558e32849438438af2"
+hash = "23f943d149ce683868978eeb4ba372dba61b5ed178e4c997b49ec4f4538dff32"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/widgets.png"
-hash = "3ead62662303c19e2dde83bea45513c75dc894293eeafcc4badac1cbc3922d49"
+hash = "15ecb8c94eb6297201d45e6e3675acc80bab5d337cc6a07884e55849a1cdef6b"
 
 [[files]]
 file = "packmenu/resources/pack.mcmeta"

@@ -9,7 +9,7 @@
 	"hoverV": 126,
 	"texWidth": 256,
 	"texHeight": 256,
-	"widgets": false,
+	"widgets": true,
 	"action": "OPEN_GUI",
 	"data": "LANGUAGE"
 }
