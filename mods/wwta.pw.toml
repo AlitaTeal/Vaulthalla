@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3543419
 project-id = 397184
+
+[option]
+optional = true
+description = "Adds timestamps to chat"
+default = true
