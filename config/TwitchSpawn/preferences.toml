@@ -8,21 +8,21 @@ indicatorDisplay="disabled"
 # "titles" to display on titles in the middle of screen
 # "chat" to display on chatbox
 # "disabled" to fully disable
-messageDisplay="titles"
+messageDisplay="disabled"
 
 # Volume of the notification sound
 # Min: 0.0 - Max: 1.0
-notificationVolume=1.0
+notificationVolume=0.0
 
 # Pitch of the notification sound
 # Min: 0.0 - Max: 1.0
 # Alternatively -1.0 for random pitch each time
-notificationPitch=1.0
+notificationPitch=0.0
 
 # Delay between each event to be handled
 # Unit of it is milliseconds (5000 milliseconds = 5 seconds)
 # Min: 0
-notificationDelay=5000
+notificationDelay=0
 
 # Attempt to auto-start the mod when the server/world is starting
 # Connection issues will be resulted in mod to stop. However, you can still start it manually.
@@ -41,5 +41,5 @@ chatIndividualCooldown=120000
 
 # Whether it should warn users on the chat when a cooldown is present or not
 # Either "enabled" or "disabled"
-chatWarnings="enabled"
+chatWarnings="disabled"
 

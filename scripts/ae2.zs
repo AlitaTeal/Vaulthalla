@@ -92,7 +92,7 @@ craftingTable.addShapeless("ae2_storage_cell_16k_shapeless", <item:ae2:item_stor
 
 craftingTable.addShaped("ae2_64k_component", <item:ae2:cell_component_64k>, [
     [<item:the_vault:black_chromatic_steel_ingot>, <item:ae2:calculation_processor>, <item:the_vault:black_chromatic_steel_ingot>],
-    [<item:ae2:cell_component_16k>, <item:the_vault:gem_pog>, <item:ae2:cell_component_16k>],
+    [<item:ae2:cell_component_16k>, <item:the_vault:echo_pog>, <item:ae2:cell_component_16k>],
     [<item:the_vault:black_chromatic_steel_ingot>, <item:ae2:cell_component_16k>, <item:the_vault:black_chromatic_steel_ingot>]
 ]);
 
@@ -142,7 +142,7 @@ craftingTable.addShaped("ae2_annihilation_core", <item:ae2:annihilation_core>, [
 
 craftingTable.addShaped("ae2_molecular_assembler", <item:ae2:molecular_assembler>, [
     [<item:the_vault:chromatic_iron_ingot>, <item:the_vault:gem_pog>, <item:the_vault:chromatic_iron_ingot>],
-    [<item:ae2:formation_core>, <item:ae2:crafting_terminal>, <item:ae2:annihilation_core>],
+    [<item:ae2:formation_core>, <item:minecraft:crafting_table>, <item:ae2:annihilation_core>],
     [<item:the_vault:chromatic_iron_ingot>, <item:the_vault:gem_pog>, <item:the_vault:chromatic_iron_ingot>]
 ]);
 
@@ -241,7 +241,7 @@ craftingTable.addShapeless("ae2_shapeless_wireless_crafting_terminal", <item:ae2
 
 craftingTable.addShaped("ae2_energy_acceptor", <item:ae2:energy_acceptor>, [
     [<item:the_vault:chromatic_iron_ingot>, <item:ae2:quartz_vibrant_glass>, <item:the_vault:chromatic_iron_ingot>],
-    [<item:ae2:quartz_vibrant_glass>, <item:the_vault:chromatic_steel_block>, <item:ae2:quartz_vibrant_glass>],
+    [<item:ae2:quartz_vibrant_glass>, <item:the_vault:chromatic_iron_ingot>, <item:ae2:quartz_vibrant_glass>],
     [<item:the_vault:chromatic_iron_ingot>, <item:ae2:quartz_vibrant_glass>, <item:the_vault:chromatic_iron_ingot>]
 ]);
 

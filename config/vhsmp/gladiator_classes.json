@@ -31,8 +31,8 @@
         },
         {
           "NAME": "minecraft:generic.max_health",
-          "MIN": 160.0,
-          "MAX": 200.0,
+          "MIN": 120.0,
+          "MAX": 180.0,
           "OPERATOR": "set",
           "ROLL_CHANCE": 1.0,
           "SCALE_PER_LEVEL": 0.05,
@@ -58,6 +58,8 @@
           "nbt": "{Damage:0}"
         }
       ],
+      "mainHandGear": [],
+      "offHandGear": [],
       "gearChances": {
         "CHEST": 1.0,
         "LEGS": 0.5,
@@ -104,8 +106,8 @@
         },
         {
           "NAME": "minecraft:generic.max_health",
-          "MIN": 120.0,
-          "MAX": 160.0,
+          "MIN": 60.0,
+          "MAX": 120.0,
           "OPERATOR": "set",
           "ROLL_CHANCE": 1.0,
           "SCALE_PER_LEVEL": 0.05,
@@ -121,17 +123,11 @@
           "SCALE_MAX_LEVEL": -1
         }
       ],
+      "mainHandGear": [],
+      "offHandGear": [],
       "mainHandItems": [
-        {
-          "item": "the_vault:sword",
-          "nbt": "{\"the_vault:gear_model\":\"random\",\"the_vault:state\":2,\"AttributeModifiers\":[{AttributeName:\"generic.attack_damage\",Amount:0,Name:\"generic.attack_damage\",UUID:[I;-122109,31466,10346,-62932]}]}"
-        }
       ],
       "offHandItems": [
-        {
-          "item": "the_vault:sword",
-          "nbt": "{\"the_vault:gear_model\":\"random\",\"the_vault:state\":2,\"AttributeModifiers\":[{AttributeName:\"generic.attack_damage\",Amount:0,Name:\"generic.attack_damage\",UUID:[I;-122109,31466,10346,-62932]}]}"
-        }
       ],
       "gearChances": {
         "CHEST": 1.0,
@@ -187,6 +183,8 @@
           "SCALE_MAX_LEVEL": -1
         }
       ],
+      "mainHandGear": [],
+      "offHandGear": [],
       "mainHandItems": [
         {
           "item": "minecraft:bow",
@@ -231,8 +229,8 @@
         },
         {
           "NAME": "minecraft:generic.max_health",
-          "MIN": 220.0,
-          "MAX": 350.0,
+          "MIN": 140.0,
+          "MAX": 260.0,
           "OPERATOR": "set",
           "ROLL_CHANCE": 1.0,
           "SCALE_PER_LEVEL": 0.08,
@@ -255,8 +253,28 @@
           "ROLL_CHANCE": 1.0,
           "SCALE_PER_LEVEL": 0.05,
           "SCALE_MAX_LEVEL": -1
+        },
+        {
+          "NAME": "minecraft:generic.armor",
+          "MIN": 6.0,
+          "MAX": 16.0,
+          "OPERATOR": "set",
+          "ROLL_CHANCE": 1.0,
+          "SCALE_PER_LEVEL": 0.05,
+          "SCALE_MAX_LEVEL": -1
+        },
+        {
+          "NAME": "minecraft:generic.knockback_resistance",
+          "MIN": 1000.0,
+          "MAX": 1000.0,
+          "OPERATOR": "set",
+          "ROLL_CHANCE": 1.0,
+          "SCALE_PER_LEVEL": 0.00,
+          "SCALE_MAX_LEVEL": -1
         }
       ],
+      "mainHandGear": [],
+      "offHandGear": [],
       "mainHandItems": [
         {
           "item": "minecraft:diamond_axe",
@@ -273,6 +291,8 @@
         }
       ],
       "gearChances": {
+        "HEAD": 0.0,
+        "MAINHAND": 0.0,
         "CHEST": 1.0,
         "LEGS": 0.5,
         "FEET": 0.5
