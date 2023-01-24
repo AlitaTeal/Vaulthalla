@@ -7593,6 +7593,11 @@ hash = "b209c7da3afa46bee40dc174aa9cf7a13abf5ef9c987976848e16ce4c199d576"
 metafile = true
 
 [[files]]
+file = "mods/wwta.pw.toml"
+hash = "cffdcb05aab8a536360ba33e1942092845e2655086382166b00ef45a64e6d31e"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "3ad22abe04558e12f7374836819e9aa716a2965cbed02c92796371c2b5bf82ba"
 metafile = true
@@ -8062,6 +8067,10 @@ hash = "53d4efb90beb9a09950d38967b58914f5c32c6f55664cb8461698f87178a2aec"
 [[files]]
 file = "scripts/Vanilla.zs"
 hash = "6d9e24ee86bac370f31ee0b12f3bb9f11e1e8a5d2362f4da9115b21bcae377a9"
+
+[[files]]
+file = "scripts/Vaulthalla.zs"
+hash = "e68984225c36f56b4d583a823d8fd8da5edc4d017192256d43c5aa2c7ee67ae7"
 
 [[files]]
 file = "scripts/Waystones.zs"
