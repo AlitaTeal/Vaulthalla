@@ -49,6 +49,22 @@ file = "config/MouseTweaks.cfg"
 hash = "611b9c06b577cb3cdc72c8b74a78b16b9a7b42832e1380a85107d086a8854fa8"
 
 [[files]]
+file = "config/TwitchSpawn/client_credentials.json"
+hash = "fe5ae0ab369907ab268227953766dba501f3b95713f9189f3ee627205530d162"
+
+[[files]]
+file = "config/TwitchSpawn/messages.subtitle.json"
+hash = "23eef74999660c3bd16b2d9beb50061d3dcbc47d5fce126af01fdb3865cfe0f1"
+
+[[files]]
+file = "config/TwitchSpawn/messages.title.json"
+hash = "ae6d5427494218db91ddd1afa7c7cea2484978d166e79caf2db2623ef3307251"
+
+[[files]]
+file = "config/TwitchSpawn/preferences.toml"
+hash = "4cae6f62ea68a2df0962518b4816daa892ae39f1babedeaee6405dfce5539179"
+
+[[files]]
 file = "config/WeirdingGadget.toml"
 hash = "5a6a3f33471f998d63c5b0a73ea016aff6d9a24bcefd249cc50befae45cb96f8"
 
@@ -7258,6 +7274,11 @@ hash = "84abec9cda0e905d2e503066a11fd6addb6b28e6604c633485993c25850b7198"
 metafile = true
 
 [[files]]
+file = "mods/applied-cooking.pw.toml"
+hash = "56bc07690051e1188ea862a5bed1ff567e1ba1853cb1f02ad8017b5c2dea3e43"
+metafile = true
+
+[[files]]
 file = "mods/applied-energistics-2.pw.toml"
 hash = "3cacdb43b158d024f33eda4364c70c8fe15f02ad93011ef44b2e894f9b709ce3"
 metafile = true
@@ -7905,6 +7926,11 @@ hash = "8d58265c582e12173f24f8c5e488173c30b8fa36006e346fc3470f20ce000a8b"
 metafile = true
 
 [[files]]
+file = "mods/refined-cooking.pw.toml"
+hash = "347ac91a3ba6f67fd214ed50b864d6e989ce552119d2f9d5a1545c48652a12b6"
+metafile = true
+
+[[files]]
 file = "mods/refined-storage-addons.pw.toml"
 hash = "d686dfe4c17f95e626b1414f6e7f830adb7dcb6a47368b4c8bafda9b27a3c308"
 metafile = true
@@ -7942,6 +7968,11 @@ metafile = true
 [[files]]
 file = "mods/scalable-cats-force.pw.toml"
 hash = "7fcce54d0244c56482e5a116f248d119952b638382e941c2932a67737b05c7d2"
+metafile = true
+
+[[files]]
+file = "mods/sebastrnlib.pw.toml"
+hash = "cf78b7416a328ebd550e22d69c3ce329d8a850b54356c30eb83fe3902a4c6ae6"
 metafile = true
 
 [[files]]
