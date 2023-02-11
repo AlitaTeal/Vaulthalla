@@ -8638,7 +8638,7 @@ hash = "dfdf0ef2e98e4852f641c92a3c790ff156870ec47eef9763fc1271f0ce474ea4"
 
 [[files]]
 file = "scripts/Vaulthalla.zs"
-hash = "e68984225c36f56b4d583a823d8fd8da5edc4d017192256d43c5aa2c7ee67ae7"
+hash = "7cd3602606221976b497569db51f533d5904587b7858158d2240ef7b4ee17272"
 
 [[files]]
 file = "scripts/Waystones.zs"

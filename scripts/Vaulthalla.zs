@@ -23,3 +23,14 @@ craftingTable.addShapeless("vaulthalla_gem_painite", <item:the_vault:gem_painite
 
 craftingTable.addShapeless("vaulthalla_perfect_wutodie", <item:the_vault:perfect_wutodie> * 4, [<item:the_vault:extraordinary_wutodie>]);
 craftingTable.addShapeless("vaulthalla_gem_wutodie", <item:the_vault:gem_wutodie> * 4, [<item:the_vault:perfect_wutodie>]);
+
+// shapeless chromatic steel ingot
+craftingTable.removeByName("the_vault:chromatic_steel_ingot");
+craftingTable.addShapeless("vaulthalla_chromatic_steel_ingot", <item:the_vault:chromatic_steel_ingot>, [
+    <item:the_vault:chromatic_iron_ingot>,
+    <item:the_vault:chromatic_iron_ingot>,
+    <item:the_vault:chromatic_iron_ingot>,
+    <item:the_vault:chromatic_iron_ingot>,
+    <item:the_vault:carbon>,
+    <item:the_vault:carbon>
+]);
