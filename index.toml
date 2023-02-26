@@ -734,6 +734,10 @@ file = "config/openloader/advanced_options.json"
 hash = "accb774b8cdd52fece03a4e4349eb0e8408ed64143acd10a36e4e930c288c04e"
 
 [[files]]
+file = "config/openloader/resources/Twemojis In Minecraft 1.1.zip"
+hash = "929a6b06a2f02b541b52f8e993adf7418dd551724fb27e32e11d6bad4bee7ef0"
+
+[[files]]
 file = "config/openloader/resources/VHBook.zip"
 hash = "4aeb2268aade887459466b9e3811573faa217bbfb358992c3aae0bbab01fd2da"
 
@@ -7346,6 +7350,10 @@ file = "mods/[Universal]CTOV-v2-9-2.jar"
 hash = "46cb4b1100a84e08890dc215e3a3e40a24d6914f8ace85c9732e57bcea4a8048"
 
 [[files]]
+file = "mods/ae_wireless_infinity.jar"
+hash = "0b181ef63eaa311f2ebc5f7b1671f839de0e4864101c6b994355767c27614c64"
+
+[[files]]
 file = "mods/akashic-tome.pw.toml"
 hash = "c55d8087b3a790472313b0e366fb016acea13dad23b4dfac869422047e7150d0"
 metafile = true
@@ -8048,6 +8056,10 @@ hash = "03ee69b801ff5c5e357b876f7a97a9d9002c84460c366097ee5c337f4408fc7c"
 metafile = true
 
 [[files]]
+file = "mods/rs_wireless_infinity.jar"
+hash = "4142d00703c8a212ce08fb5e04b33690a6757a48b7badf749c1e21ba5aec0e66"
+
+[[files]]
 file = "mods/rubidium.pw.toml"
 hash = "dc1ace4b702d5953b4ff5aac59572a9fc03d077aee3c0d407db17a8f768f5268"
 metafile = true
@@ -8735,7 +8747,7 @@ hash = "dfdf0ef2e98e4852f641c92a3c790ff156870ec47eef9763fc1271f0ce474ea4"
 
 [[files]]
 file = "scripts/Vaulthalla.zs"
-hash = "90b9e6f37f20f5963938f92062029b0a7d96e9ab6f112350028b71e291d8d37d"
+hash = "8fb464821a272836679f0813ea51fcb47b55e92210bf675338aef8a5aac84e3d"
 
 [[files]]
 file = "scripts/Waystones.zs"
