@@ -11,7 +11,3 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4360142
 project-id = 502561
-
-[option]
-optional = true
-description = "Allows you to compare stats of equipped items with those in your inventory by holding SHIFT"

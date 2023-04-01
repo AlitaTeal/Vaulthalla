@@ -1,13 +1,13 @@
 name = "Vault Hunters - Official Mod"
-filename = "the_vault-1.18.2-2.0.14.1492.jar"
+filename = "the_vault-1.18.2-3.8.0.1681.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "bf511a0f0804d7c5948107ff3edd96770d1a423b"
+hash = "125d187ad7d9451d9de566624d0853b98c8c5f57"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4395668
+file-id = 4437356
 project-id = 458203

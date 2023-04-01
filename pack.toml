@@ -1,12 +1,12 @@
 name = "Vaulthalla"
 author = "AlitaTeal"
-version = "0.7.7"
+version = "0.8.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "be7c11efb7fb64a98826733d4b2bab70d199978128af0911f30873b8658f5169"
+hash = "d652de7a91ee2e648f951b66bfc579574ab2d24d67cad3707ae028b0339bc339"
 
 [versions]
 forge = "40.1.93"
