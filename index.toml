@@ -8389,6 +8389,11 @@ hash = "7949825f50711920d0faa98470f65a33a7ff48a40e735e1f5efb616e325e1992"
 metafile = true
 
 [[files]]
+file = "mods/pluto.pw.toml"
+hash = "d157980f6e4b7a62b870b9a86aafb8f07342800a6ffcffb945567c6b5203af2e"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "5999f9c35dc54c19d570b20fcbe0551e835236a0dca442b9279fd852590eec68"
 metafile = true
