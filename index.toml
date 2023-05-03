@@ -554,7 +554,7 @@ hash = "b72f2ae563d83b1ae054df7527c8f3a532c68c057e67a53b51e76def36d9334b"
 
 [[files]]
 file = "config/everycomp-registry.toml"
-hash = "90dc4e5ad06c59a45f1a405229cde287337f33b44c0dfcfacd59c503f8a0adb4"
+hash = "731a641d6fda63245ba2d7d4021d2301bdf5563eb71df6d9b2f2dfd910080e27"
 
 [[files]]
 file = "config/fairylights-client.toml"
@@ -7880,6 +7880,10 @@ hash = "4b432220bc84ba3023745c811d35901c1061641670ce50c3991bf9710299c554"
 [[files]]
 file = "config/the_vault/talents_gui_styles.json"
 hash = "01517397645a8589789410e7ab0053e313b19267666723d9d8a137d2678ed985"
+
+[[files]]
+file = "config/the_vault/the_vault.zip"
+hash = "925d7e8972b3e56e865523e83cc127df3d8b07fc071498b667c5e766b8f65bb5"
 
 [[files]]
 file = "config/the_vault/tile_groups.json"
