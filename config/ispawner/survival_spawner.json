@@ -30,6 +30,14 @@
       "AMBIENT": {
         "spawnGroup": "AMBIENT",
         "limit": -1
+      },
+      "UNDERGROUND_WATER_CREATURE": {
+        "spawnGroup": "UNDERGROUND_WATER_CREATURE",
+        "limit": -1
+      },
+      "AXOLOTLS": {
+        "spawnGroup": "AXOLOTLS",
+        "limit": -1
       }
     }
   },
@@ -100,6 +108,7 @@
     "minecraft:zombie_spawn_egg",
     "minecraft:zombie_horse_spawn_egg",
     "minecraft:zombie_villager_spawn_egg",
-    "minecraft:zombified_piglin_spawn_egg"
+    "minecraft:zombified_piglin_spawn_egg",
+    "alexsmobs:spawn_egg_flutter"
   ]
 }
