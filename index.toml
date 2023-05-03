@@ -7882,10 +7882,6 @@ file = "config/the_vault/talents_gui_styles.json"
 hash = "01517397645a8589789410e7ab0053e313b19267666723d9d8a137d2678ed985"
 
 [[files]]
-file = "config/the_vault/the_vault.zip"
-hash = "925d7e8972b3e56e865523e83cc127df3d8b07fc071498b667c5e766b8f65bb5"
-
-[[files]]
 file = "config/the_vault/tile_groups.json"
 hash = "d2f97f5dea21619ad6ed79cd7624cc8050359013b2a3e8ba1cc4cf9870f06dc9"
 
