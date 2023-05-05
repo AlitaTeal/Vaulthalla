@@ -541,6 +541,10 @@ file = "config/enercell/enercell.json"
 hash = "7c1e64768038901f3de0ae18d78f30e5489c9b1f3cb26bbe0fc55b119218b43f"
 
 [[files]]
+file = "config/enhanced_bes.properties"
+hash = "a33b4afc607ee89163a944d0cce8729fcf2085677bba3e6f2589de5aaf38313f"
+
+[[files]]
 file = "config/entity_texture_features.json"
 hash = "2e9e9368a4d6a289e9b7c31dad8944358caed71ca63dc3697eeeb5bdef7b5460"
 
@@ -8615,11 +8619,6 @@ metafile = true
 [[files]]
 file = "mods/free-cam.pw.toml"
 hash = "ce7d91b5ee42cb8ffd25e019fa5767d6caa53778801bf2da4f44b8c208749e8a"
-metafile = true
-
-[[files]]
-file = "mods/ftb-backups-2.pw.toml"
-hash = "e1c6d935fffb5bc0abd41b18118755ac4eab986f68f0a20c87690d9327ba8b44"
 metafile = true
 
 [[files]]
