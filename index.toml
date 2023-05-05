@@ -8717,10 +8717,6 @@ hash = "35fabe0ac1bebd7cd8530db45a164838ee1a5687cefcb6bbef2b5d42afac8701"
 metafile = true
 
 [[files]]
-file = "mods/lightspeed-1.18.2-1.0.2.jar"
-hash = "74de4ab8900ad4abf76c788abae73f2f0f75d93b86c4b1eba41ab9f63f1d07a9"
-
-[[files]]
 file = "mods/loot-beams.pw.toml"
 hash = "da821cfb91ce57f5e7bba143c29dd5c04cca6f7d9ecab3139f8c364fc59f8ef9"
 metafile = true
