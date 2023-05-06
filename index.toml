@@ -8194,18 +8194,6 @@ file = "mods/BetterF3-3.0.0-Forge-1.18.2.jar"
 hash = "bd58b42c45b86af2cecda75ac68c3be7da5ecd7d37c055238d44d309743c21ea"
 
 [[files]]
-file = "mods/CullLessLeaves-Reforged-1.18.2-1.0.5.jar"
-hash = "ffc18b1e180a64ce8367408320285bf34764d64aeb6ed7f4f781523fed079c48"
-
-[[files]]
-file = "mods/EnhancedBlockEntities-Reforged-1.18.2-0.7.3.jar"
-hash = "e72cb75980df0b8510935766a50f6a3d55aca3454457167d4231a3ff342fc396"
-
-[[files]]
-file = "mods/ImmediatelyFastReforged-1.18.2-1.1.10.jar"
-hash = "8a51f3f20bf857cd8250113d231f3b1ab3b604bc87d761e00168ceec1d4cd3e8"
-
-[[files]]
 file = "mods/Vaulthalla_Coins-1.18.2-1.0b.jar"
 hash = "2666f280e3b727dc137e7848615f888c9c7495f5b89358b01c49294a7d96c58e"
 
@@ -8305,11 +8293,6 @@ metafile = true
 [[files]]
 file = "mods/better-ping-display.pw.toml"
 hash = "fe2f4225b5afac86a2da41107854acc38a1f3d9bdf550e09abbcb33ad4fae1e1"
-metafile = true
-
-[[files]]
-file = "mods/better-runtime-resource-pack.pw.toml"
-hash = "2165d1ee935ff32ba11a3beb1d53cd0a581b78eb672c10347f5d4564698ec15f"
 metafile = true
 
 [[files]]
@@ -8774,11 +8757,6 @@ metafile = true
 [[files]]
 file = "mods/mekanism.pw.toml"
 hash = "ec1b184fe352b65db298ce3c93b66aa2c12a5b0a6ea1ef9a576179a1523b0264"
-metafile = true
-
-[[files]]
-file = "mods/memoryleakfix.pw.toml"
-hash = "ad64853eb5ba56dc6e4b1bb9214dbfe28e2a0c865dc76b4b77edee0f11adceff"
 metafile = true
 
 [[files]]
